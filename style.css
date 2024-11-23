@@ -210,7 +210,7 @@ body {
     position: absolute;
     bottom: 40px;
     left: 10%;
-    width: 200px;
+    width: 135px;
     display: flex;
     justify-content: space-between;
 }
@@ -364,7 +364,7 @@ body {
     height: 100%;
     background: #081b29;
     animation: showRight 2s ease forwards;
-    animation-delay: .5s;
+    animation-delay: .25s;
     z-index: 1;
 }
 
@@ -388,7 +388,7 @@ body {
     background: transparent;
     border: 4px solid #00abf0;
     border-radius: 50%;
-    font-size: 90px;
+    font-size: 70px;
     color: #00abf0;
     text-decoration: none;
     overflow: hidden;
